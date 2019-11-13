@@ -12,10 +12,39 @@ h1 {
 	font-weight: 400;
 	font-size: 36px;
 	margin-bottom: 0px;
+ 	padding-bottom: 20px;
+
+
 }
 
 .name-main__item {
 	font-weight: 400;
 	font-size: 32px;
+	border-bottom-style: solid;
+	border-bottom-color: grey;
+	margin-bottom: 8px;
+}
+
+.title-main__item {
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+
+#indentation {
+	margin-bottom: 20px;
+}
+
+#header {
+	margin-bottom: 32px;
+	text-align: center;
+}
+
+#footer {
+	margin-top: 64px;
+	text-align: center;
+}
+
+.main__title {
+	font-weight: 800;
 }
 
